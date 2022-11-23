@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Tiktok Bot
 - 🤔 I’m looking for help with Visual Data Analytics
 - 💬 Ask me about anything tech related.
-- 📫 How to reach me: ec20433@qmul.ac.uk
+- 📫 How to reach me: michaelperes562@gmail.com
