@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack Project
+- 🔭 I’m currently working on Ecommerce Automation Project
 - 🌱 I’m currently learning Nueral Networks in Python, MERN Stack
 - 👯 I’m looking to collaborate on Tiktok Bot
 - 🤔 I’m looking for help with Visual Data Analytics
