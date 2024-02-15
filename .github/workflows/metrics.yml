@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.leetcode.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: makiisthenes
           plugin_leetcode: yes
