@@ -17,8 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=makiisthenes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=makiisthenes&theme=dark&hide_border=false)<br/>
 
-## Leetcode Statistics
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+## Statistics using Github Actions
+<p align="center"><img src="/metrics.plugin.leetcode.svg" alt="Metrics"></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=makiisthenes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
